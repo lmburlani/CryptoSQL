@@ -11,7 +11,8 @@ Antes de executar o script, você deve configurar as seguintes variáveis de amb
 Defina as criptomoedas que deseja coletar dados. Atualmente, o script está configurado para coletar dados para BTC, ETH e LTC.
 
 ```python
-crypto_list = ["BTC-USD", "ETH-USD", "LTC-USD"]```
+crypto_list = ["BTC-USD", "ETH-USD", "LTC-USD"]
+```
 
 ## Moedas
 
